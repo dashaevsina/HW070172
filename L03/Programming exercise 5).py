@@ -6,7 +6,7 @@
 print("This program will generate a table of")
 print("Celsius temperatures and the Fahrenheit")
 print("equivalents every 10 degrees from 0ºC to 100ºC.")
-print("                                               ")
+print()
 def main():
     print("Celsius temperatures and Fahrenheit equivalents")
     print("Celsius", "                    ", "Fahrenheit")
